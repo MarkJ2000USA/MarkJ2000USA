@@ -28,6 +28,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him...
 - ⚡ Fun fact: I love riding my bike, gaming and eating great healthy all-american meals ...
 
-[My 1st Python Project Online IDE](https://studio.code.org/projects/pythonlab/GYgLQNk8tMcmCPDgZ3V0bcZG5PCPBtxNCrGkdsV23tQ)
+# My Python Projects
+
+This repository contains my Python projects.
+
+## Projects
+
+- [My 1st Python Project Online IDE](https://studio.code.org/projects/pythonlab/GYgLQNk8tMcmCPDgZ3V0bcZG5PCPBtxNCrGkdsV23tQ)
+
+Click the link above to view my first Python project hosted on Code.org.
+
 
 -->
