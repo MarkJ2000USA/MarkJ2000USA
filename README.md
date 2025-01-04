@@ -16,7 +16,7 @@
  ⚡ Fun fact: I love riding my bike, gaming and eating great healthy all-american meals ...
 <!--
 **MarkJ2000USA/MarkJ2000USA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on E-Learnings...
@@ -38,5 +38,3 @@ This repository contains my Python projects.
 
 Click the link above to view my first Python project hosted on Code.org.
 
-
--->
