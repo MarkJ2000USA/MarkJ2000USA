@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him...
 - ⚡ Fun fact: I love riding my bike, gaming and eating great healthy all-american meals ...
 
-# My 1st Python Project at 12 Years Old In Year 2025 Gen Beta
+# My 1st Python Project at 12 Years Old In Year 2025 Gen Alpha
 
 This repository contains my Python projects.
 
