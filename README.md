@@ -34,7 +34,7 @@ This repository contains my Python projects.
 
 ## Projects
 
-- [My 1st Python Project Online IDE](https://studio.code.org/projects/pythonlab/GYgLQNk8tMcmCPDgZ3V0bcZG5PCPBtxNCrGkdsV23tQ)
+- [My 1st Python Project on Code.org Online IDE](https://studio.code.org/projects/pythonlab/GYgLQNk8tMcmCPDgZ3V0bcZG5PCPBtxNCrGkdsV23tQ)
 
 Click the link above to view my first Python project hosted on Code.org.
 
